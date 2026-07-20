@@ -1,0 +1,15 @@
+Practical 1.1
+Problem:
+Not know how to move elements.
+Solution:
+First empty the first element of the array and store it in temp variable and shift the other elements, then put the first element from temp to last place.
+
+Practical 1.2
+Problem:
+Repeated outputs when number is repeated more than one times
+Solution:
+Declare a count variable and a Boolean variable when the condition satisfy it increment count by one and change Boolean variable.
+
+Practical 1.3
+Problem:
+Solution: 
