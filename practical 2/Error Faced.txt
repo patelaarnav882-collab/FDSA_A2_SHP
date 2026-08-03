@@ -1,0 +1,9 @@
+Practical 2.1
+Problem:
+Firstly not understand how to solve with Recurssion.
+Solution:
+With try and error method making functions and then run it.
+
+Practical 2.2
+Problem:
+Solution:
