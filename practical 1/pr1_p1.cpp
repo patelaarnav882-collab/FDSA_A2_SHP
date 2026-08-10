@@ -26,6 +26,7 @@ int main()
 
         arr[n - 1] = temp; 
     }
+        
     cout<<"After "<<d<<" hours items must be like in this order : "<<endl;
 
     for(int i=0;i<n;i++)
