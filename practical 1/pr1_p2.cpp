@@ -14,6 +14,7 @@ int main()
         cin>>arr[i];
     }
 
+    bool printed = false;
     for(i=0;i<n;i++)
     {
         int count = 1;
@@ -25,7 +26,7 @@ int main()
             }
         }
 
-        bool printed = false;
+        
         for (int k = 0; k < i; k++)
         {
             if (arr[i] == arr[k])
@@ -40,6 +41,10 @@ int main()
             cout << "Repeated Book is : " << arr[i] << endl;
         }
     }
+    
+    if(printed==false)
+    cout<<"NO book is Repeated !!!"<<endl;
+
 
     return 0;
 }
