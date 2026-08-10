@@ -35,7 +35,7 @@ int main()
     {
         if(bcode[mid]==find)
         {
-            cout<<"The book is at "<<bcode[mid]<<" position"<<endl;
+            cout<<"The book is at "<<mid+1<<" position"<<endl;
         }
 
         else if(bcode[mid]>find)
