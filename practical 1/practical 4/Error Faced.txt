@@ -1,0 +1,11 @@
+Practical 4.1
+Problem:
+Forgot Linked List insertion Alogrithms
+Solution:
+Revised from notes
+
+Practical 4.2
+Problem:
+Forgot Linked List deletion Algorithms
+Solution:
+Revised from Notes
