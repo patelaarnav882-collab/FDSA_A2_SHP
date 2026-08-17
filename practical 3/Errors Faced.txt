@@ -1,0 +1,9 @@
+Practical 3.1
+Problem:
+Firstly don't know how to sort.
+Solution:
+Learn Bubble and Selection from Google, and Insertion from Class
+
+Practical 3.2
+Problem:
+Solution:
